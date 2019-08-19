@@ -68,12 +68,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.blankj</groupId>
-      <artifactId>utilcode</artifactId>
-      <version>1.24.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
       <version>1.2.58</version>
