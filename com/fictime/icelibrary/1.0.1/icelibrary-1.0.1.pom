@@ -8,6 +8,18 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
+      <groupId>com.tencent.bugly</groupId>
+      <artifactId>crashreport</artifactId>
+      <version>RELEASE</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.tencent.bugly</groupId>
+      <artifactId>nativecrashreport</artifactId>
+      <version>RELEASE</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>commons-net</groupId>
       <artifactId>commons-net</artifactId>
       <version>3.5</version>
